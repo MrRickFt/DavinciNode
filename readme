@@ -1,0 +1,18 @@
+# Hola Mundo con Express
+
+Este es un simple servidor HTTP utilizando Express que responde con "Hola, Mundo!" cuando se accede a la ruta raíz (`/`).
+
+## Requisitos
+
+- Node.js
+- npm (Node Package Manager)
+
+## Instalación
+
+Sigue estos pasos para configurar y ejecutar el servidor:
+
+1. Clona el repositorio o descarga el archivo del proyecto.
+2. Abre una terminal y navega al directorio del proyecto.
+3. Ejecuta `npm install` para instalar las dependencias necesarias.
+4. Ejecuta `npm run dev`
+5. Obten el "Hola Mundo" con una consulta "GET" la siguiente ruta "http://localhost:+PORT"
